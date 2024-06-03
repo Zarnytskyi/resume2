@@ -1,0 +1,39 @@
+body {
+    background-color: #8ecae6;
+    margin: 0;
+    font-family: "Sue Ellen Francisco", cursive;
+}
+a {
+    text-decoration: none; color: #023047;
+}
+h2 {
+    color :#ffffff;
+    background: #8338ec;
+}
+.content-wrapper{
+    width: 1200px;
+    background-color: #06384f;
+    left: 0; top: 0;
+}
+.right-content{
+    background-color: #0077b6;
+    width: 70%;
+    float: right;
+}
+.left-content{
+    background-color: #8ecae6;
+    width: 15%; min-width: 50px;
+    float: left; position: fixed;
+    margin: 0; left: 0; top: 0;
+}
+section{
+    border: 1px solid #14213d;
+    border-radius: 0px;
+    background-color: #ffffff;
+}
+.Contact a{
+    list-style: none;
+}
+.clearfix{
+    clear: both;
+}
